@@ -8,4 +8,4 @@ RhymeFinder.py is the original script which iterates through the wordsDump.txt &
 
 Get the RhymeDump file from here :- https://drive.google.com/open?id=1zpaZ9BFejQkHkH2drdApzbs3Hjjvt0Ua
 
-This file is compressed from 44gb to 700 mb, github has a file limit of 100 mb.
+This file is compressed from 44gb to 700 mb, github has a file limit of 100 mb
